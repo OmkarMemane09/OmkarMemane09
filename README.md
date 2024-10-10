@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OmkarMemane09
 - 👀 I’m interested in project development.
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
