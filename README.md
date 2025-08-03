@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Memane</h1>
-<h3 align="center">Java | Python | Web Development | SQL | MongoDB | Linux | AWS</h3>
+<h3 align="center">Java | Python | Linux | AWS | SQL | Web Devlopment | MongoDB</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver+%7C+Learner;Java+%7C+Python+%7C+SQL+%7C+MongoDB+Explorer;Building+Projects+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me:
 - 🎓 Student passionate about technology and real-world problem solving.
-- 💻 Exploring Web Development, Backend Systems, and Database Management.
+- 💻 Exploring Web Development,Linux , AWS and Database Management.
 - 📈 Consistently sharpening my skills through projects and challenges.
 - 🚀 Believer of **"Small steps every day lead to big results."**
 
@@ -20,12 +20,12 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
 </p>
 
 ---
