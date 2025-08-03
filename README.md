@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Memane</h1>
-<h3 align="center">Java | Python | Web Development | SQL | MongoDB</h3>
+<h3 align="center">Java | Python | Web Development | SQL | MongoDB | Linux | AWS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Developer+%7C+Problem+Solver+%7C+Learner;Java+%7C+Python+%7C+SQL+%7C+MongoDB+Explorer;Building+Projects+with+Passion+%F0%9F%9A%80" alt="Typing SVG" />
@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
 </p>
 
 ---
@@ -45,5 +47,6 @@
   </a>
 </p>
 
+---
 
 > "Dream big. Stay focused. Make it happen. 🚀"
