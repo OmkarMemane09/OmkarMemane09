@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cloud & DevOps Enthusiast | Troubleshooter | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast+☁️;Linux+%7C+AWS+%7C+Docker+%7C+Git+%7C+CI%2FCD;Troubleshooter+%7C+Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast+☁️;Linux+%7C+AWS+%7C+Docker+%7C+Git+%7C+CI%2FCD;HandsOn+%7C+Problem+Solver+%7C+Learner" alt="Typing SVG" />
 </p>
 
 ---
