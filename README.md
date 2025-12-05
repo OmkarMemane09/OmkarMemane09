@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Memane</h1>
 <h3 align="center">🚀 Cloud & DevOps Enthusiast | Troubleshooter | Lifelong Learner</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmkarMemane09&label=Profile%20views&color=0e75b6" alt="Profile views"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Enthusiast+☁️;Linux+%7C+AWS+%7C+Docker+%7C+Git+%7C+CI%2FCD;HandsOn+%7C+Problem+Solver+%7C+Learner" alt="Typing SVG" />
