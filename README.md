@@ -80,4 +80,4 @@
 
 ---
 
-> 💬 *"Think Cloud. Work Smart. Troubleshoot Fast. Automate Everything."* ☁️
+**💬"Think Cloud. Work Smart. Troubleshoot Fast. Automate Everything."☁️**
